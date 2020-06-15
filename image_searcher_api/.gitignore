@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*.class
+*.log
+logs/
+target/
+*.ipr
+*.iws
+.DS_Store
+tmp/
+*.tsv
+*.sc
